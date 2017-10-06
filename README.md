@@ -1,6 +1,6 @@
-##openKex - A Public Key Infrastructure for user centered digital identities.
+## openKex - A Public Key Infrastructure for user centered digital identities.
 Scope of the project is the development and assessment of a PoC.
-##Deliverables
+## Deliverables
 1. Whitepaper
 2. Security Review based on whitepaper und prototype
 3. Usability Review based on customer experience test of prototype
@@ -12,7 +12,7 @@ Scope of the project is the development and assessment of a PoC.
     * Kex node, API&doc
     * ID Vendor: citizen cards, certificates (x509, PGP), public accounts, API&doc
 
-##Progress
+## Progress
 - Okt.15 project planning and setup
 - Nov.15 setup of r&d infrastructure and landing page
 - Dec.15 research on market and technologie: secure messaging, storage
